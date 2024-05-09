@@ -11,7 +11,7 @@ export default function WeatherPage() {
       </div>
       <div className="weather-page">
         <div className="header">
-          <h1>Weather Wizard ⛅️</h1>
+          <h1>Weather Wizard</h1>
 
           <div className="tech">
             <p>Typescript</p>
@@ -82,6 +82,10 @@ export default function WeatherPage() {
               </li>
             </ul>
           </p>
+        </div>
+        <div className="weather-plan">
+          <img src="./Weather app plan.png" />
+          <figcaption>Made using Figma</figcaption>
         </div>
         <h3>FINAL PRODUCT</h3>
         <div className="iteration-images">

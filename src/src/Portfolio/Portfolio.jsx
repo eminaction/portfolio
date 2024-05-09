@@ -20,14 +20,14 @@ const cardData = [
     imageSource: "./Screenshot 2024-03-06 at 18.36.16.png",
     header: "Drag & Drop Website",
     text: "A website created with a strong emphasis on user experience and user interface, crafted using a drag-and-drop service. ",
-    link: "/weather-page",
+    link: "/",
   },
   {
     id: 0,
     imageSource: "./fireplace-palace.png",
     header: "Next.js Webpage",
     text: "The webpage created was for a fireplace company leverages Next.js using a mobile first appraoch to offer a seamless and engaging user experience.",
-    link: "/weather-page",
+    link: "/",
   },
 ];
 
