@@ -1,8 +1,14 @@
 import "./WeatherPage.css";
+import Link from "next/link";
 
 export default function WeatherPage() {
   return (
     <>
+      <div className="home-link">
+        <Link href="/">
+          <img src="./left-arrow.svg" width="20px" />
+        </Link>
+      </div>
       <div className="weather-page">
         <div className="header">
           <h1>Weather Wizard ⛅️</h1>
