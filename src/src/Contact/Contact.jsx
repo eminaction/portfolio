@@ -16,7 +16,7 @@ export default function Contact() {
             <div className="socials">
               <h3>FIND ME HERE:</h3>
               <a
-                href="https://www.linkedin.com/in/emma-nolan-010995179"
+                href="https://www.linkedin.com/in/emma-carter-010995179"
                 className="linkedin"
                 target="_blank"
               >

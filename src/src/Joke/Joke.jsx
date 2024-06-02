@@ -46,7 +46,7 @@ export default function Joke() {
           </button>
 
           <a
-            href="https://www.linkedin.com/in/emma-nolan-010995179"
+            href="https://www.linkedin.com/in/emma-carter-010995179"
             target="_blank"
           >
             <button>I&apos;m Feeling Lucky</button>
