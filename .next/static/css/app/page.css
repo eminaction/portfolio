@@ -796,9 +796,7 @@ footer a {
 .failed-load {
   margin-top: 50px;
 }
-/* @media screen and (min-width: 359px) and (max-width: 429px) {
-  .joke-section {
-    width: 80%;
-  }
-} */
+.joke-section button {
+  background-color: rgb(241, 239, 239);
+}
 
