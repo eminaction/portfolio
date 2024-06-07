@@ -5,7 +5,7 @@ export default function Experience() {
     <>
       <footer>
         <div className="top-button">
-          <a href="#header">
+          <a href="#menu">
             <div id="myBtn" title="Go to top">
               To the Top ↑
             </div>
