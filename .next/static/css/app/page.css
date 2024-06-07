@@ -683,6 +683,32 @@ footer a {
   }
 } */
 
+/*!*******************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./src/src/Menu/Menu.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************/
+.bookmark1 img,
+.bookmark2 img {
+  padding-right: 5px;
+  vertical-align: middle;
+}
+.bookmark1 {
+  font-size: 12px;
+  padding-right: 20px;
+}
+.menu {
+  padding-left: 10px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 1px solid rgb(227, 226, 226);
+}
+.bookmark2 {
+  font-size: 12px;
+  padding-right: 20px;
+  float: right;
+  padding-left: 10px;
+  border-left: 1px solid rgb(227, 226, 226);
+}
+
 /*!*****************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[12].use[3]!./src/src/SearchBar/SearchBar.css ***!
   \*****************************************************************************************************************************************************************************************************************************************************************************/
