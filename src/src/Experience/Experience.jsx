@@ -7,7 +7,7 @@ export default function Experience() {
         <h1>EXPERIENCE</h1>
         <div className="cv">
           <a
-            href="https://drive.google.com/file/d/1Ym68rwxlGK556OnEF4EBslut6of0NZlE/view?usp=sharing"
+            href="https://drive.google.com/file/d/13L8Pp0Ch3iwknMqUu8ZLs4yZBb1FkA2z/view?usp=sharing"
             target="_blank"
           >
             <button className="cv-button">SEE CV</button>
